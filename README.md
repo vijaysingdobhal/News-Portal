@@ -33,14 +33,14 @@ The **News Portal Website** is a dynamic web platform designed to deliver the la
 
 ### Folder Structure
 news-portal/ │ ├── assets/ # Static files like images, stylesheets, and scripts ├── includes/ 
-**Reusable PHP components (header, footer, database connection) ├── admin/ 
-**Admin panel files for managing content ├── config.php 
-**Database configuration ├── index.php 
-**Home page with dynamic news display ├── login.php 
-**User login page ├── register.php 
-**User registration page ├── article.php 
-**Single article view page ├── comment-handler.php 
-**Handles user comments └── ... # Other supporting files 
+Reusable PHP components (header, footer, database connection) ├── admin/ 
+Admin panel files for managing content ├── config.php 
+Database configuration ├── index.php 
+Home page with dynamic news display ├── login.php 
+User login page ├── register.php 
+User registration page ├── article.php 
+Single article view page ├── comment-handler.php 
+Handles user comments └── ... # Other supporting files 
 
 ## Installation and Setup
 1. **Clone the Repository**:
